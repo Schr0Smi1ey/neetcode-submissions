@@ -1,6 +1,3 @@
-// Time Complexity	O(n^2⋅klogk)
-// Space Complexity	O(nk)
-
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
